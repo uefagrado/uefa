@@ -82,7 +82,7 @@ h4{
     .indice {
         display: flex;
         flex-flow:column;
-        justify-content:space-evenly;
+        justify-content:flex-start;
         align-content: center;
         
     }
