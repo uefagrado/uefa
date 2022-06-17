@@ -42,7 +42,7 @@ h4{
     }
     .info{
         font-family: 'Times New Roman', Times, serif;
-        font-size: 8px;
+        font-size: 12px;
         text-align: justify;
     }
     h1{
@@ -90,7 +90,7 @@ h4{
     }
     
     .elementos {
-        background-color: #006affb0;
+        background-color: #8ebdffe9;
         width: 75%;
         height: 75%;
         text-align: center;
@@ -120,17 +120,15 @@ h4{
     }
     
     .btnM1 {
-        margin-left: -4px;
         color: rgb(255, 255, 255);
         text-decoration: none;
-        padding: 2% 2% 2 2% ;
         padding-left: 2%;
         padding-right: 2%;
-        font-size: 4px;
+        font-size: 6px;
     }
     .imagenitem{
-        height: 25%;
-        width: 15%;
+        height: 40%;
+        width: 30%;
     }
     .ftgeneral{
         height: 45%;
