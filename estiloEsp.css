@@ -36,3 +36,66 @@ h4{
     color: black;
 
 }
+@media screen and (min-width: (288)) and (max-width: 768px) { 
+    * {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    
+    body {
+        background-color: rgb(44, 44, 44);
+        background-repeat: round;
+        background-size: cover;
+        height: 100%;
+        top: 0px; bottom:0px;
+        left: 0px; right: 0px;
+    }
+    
+    .indice {
+        display: flex;
+        flex-wrap: wrap;
+        flex-flow: wrap;
+        justify-content: space-between;
+        flex-grow: 250px;
+        
+    }
+    
+    .elementos {
+        background-color: #a8dfffb0;
+        width: 250px;
+        height: 250px;
+        text-align: center;
+        border: solid 2% rgba(0, 0, 0, 0.671);
+        border-radius: 3%;
+        box-shadow: 2.5px 2.5px 10px black;
+        backdrop-filter: blur(5px);
+        margin: 25px 25px 25px 25px;
+        padding: 10px 10px 10px 10px;
+        
+    }
+    .cont {
+        background-color: rgb(223, 250, 255);
+        height: 100%;
+        padding: 20% 20% 20% 20%;
+    }
+    
+    .items {
+        text-decoration: none;
+        color: black;
+        font-size: 10%;
+    }
+    
+    .menu1 {
+        background-color: #3e3e64;
+        padding: 2px 30px 5px 5px;
+    }
+    
+    .btnM1 {
+        margin-left: -4px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 2px 25px 5px 5px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
