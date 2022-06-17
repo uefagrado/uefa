@@ -36,7 +36,7 @@ h4{
     color: black;
 
 }
-@media screen and (min-width:260px) { 
+@media screen and (min-width:260px) and (max-width: 750px){ 
     * {
         margin: 0px 0px 0px 0px;
         padding: 0px 0px 0px 0px;
