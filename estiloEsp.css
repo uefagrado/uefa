@@ -136,7 +136,6 @@ h4{
         width: 75%; 
     }
     .indiceSeg{
-        width: 90%;
-        height: 100%;
+        border: 70% 70% 70% 70%;
     }
 }
