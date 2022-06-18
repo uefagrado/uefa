@@ -68,7 +68,7 @@ h4{
         font-size: 40px;
     }
     .tituloItem{
-        font-size: 14px;
+        font-size: 16px;
         color: black;}
     *{
         margin: 0px 0px 0px 0px;
@@ -117,6 +117,7 @@ h4{
     .menu1 {
         background-color: #3e3e64;
         padding: 2% 2% 2% 2%;
+        margin: 0% 0% 0% 0%;
     }
     
     .btnM1 {
@@ -127,11 +128,11 @@ h4{
         font-size: 6px;
     }
     .imagenitem{
-        height: 40%;
-        width: 30%;
+        height: 60%;
+        width: 50%;
     }
     .ftgeneral{
-        height: 45%;
-        width: 45%; 
+        height: 60%;
+        width: 60%; 
     }
 }
