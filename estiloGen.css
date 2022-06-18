@@ -15,6 +15,12 @@ body {
     left: 0px;
     right: 0px;
 }
+.indiceSeg{
+    border-radius: 5px; 
+    border-style: solid; 
+    border-width: 3px; 
+    width: 40%;
+}
 
 .indice {
     display: flex;
