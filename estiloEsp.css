@@ -99,7 +99,7 @@ h4{
         box-shadow: 2.5% 2.5% 10% black;
         backdrop-filter: blur(3%);
         margin: 5% 5% 5% 5%;
-        padding: 2px 2px 2px 2px;
+        padding: 3% 3% 3% 3%;
         
     }
     .cont {
@@ -132,7 +132,7 @@ h4{
         width: 50%;
     }
     .ftgeneral{
-        height: 60%;
-        width: 60%; 
+        height: 75%;
+        width: 75%; 
     }
 }
